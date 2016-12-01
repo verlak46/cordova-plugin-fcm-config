@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "45713885239",
+    "firebase_url": "https://recin-151209.firebaseio.com",
+    "project_id": "recin-151209",
+    "storage_bucket": "recin-151209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45713885239:android:60133e25969d1a23",
+        "android_client_info": {
+          "package_name": "es.easypyme.recim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45713885239-mn0m9uthsut89r0c4iq9mmmlrrkthtur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoT3GdfrrW_l4p8w1m1GwE8wCsXcCcpo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }

@@ -2,13 +2,13 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="cordova-plugin-fcm-config"
-    version="1.0.0">
+    version="1.0.1">
     
     <name>cordova-plugin-fcm-config</name>
     
     <description>This plugin copies the required fcm configurations in the project folder</description>
     
-    <author>Steffen Tröster</author>
+    <author>Ivan Easypyme</author>
     
     <license>MIT</license>
 

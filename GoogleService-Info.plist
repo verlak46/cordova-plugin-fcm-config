@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>45713885239-6cu682ge7kj6uk5v1od8ej49h2mvvnud.apps.googleusercontent.com</string>
+	<string>725383621585-33im5mv0slk45o09tm05gb633usgcg9f.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.45713885239-6cu682ge7kj6uk5v1od8ej49h2mvvnud</string>
+	<string>com.googleusercontent.apps.725383621585-33im5mv0slk45o09tm05gb633usgcg9f</string>
 	<key>API_KEY</key>
-	<string>AIzaSyA51WU_71ZsEel6wJB12GTz6iYFvxaKYyo</string>
+	<string>AIzaSyAiZ27HBhwgJTqJUD2UgUUE3bx_OYdzqr4</string>
 	<key>GCM_SENDER_ID</key>
-	<string>45713885239</string>
+	<string>725383621585</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>es.easypyme.recim</string>
+	<string>es.easypyme.gensidetoxslim</string>
 	<key>PROJECT_ID</key>
-	<string>recin-151209</string>
+	<string>gensidetox-slim</string>
 	<key>STORAGE_BUCKET</key>
-	<string>recin-151209.appspot.com</string>
+	<string>gensidetox-slim.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:45713885239:ios:60133e25969d1a23</string>
+	<string>1:725383621585:ios:b94af9633d29373d</string>
 	<key>DATABASE_URL</key>
-	<string>https://recin-151209.firebaseio.com</string>
+	<string>https://gensidetox-slim.firebaseio.com</string>
 </dict>
 </plist>

@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "842739974363",
-    "firebase_url": "https://easymaitre-5975b.firebaseio.com",
-    "project_id": "easymaitre-5975b",
-    "storage_bucket": "easymaitre-5975b.appspot.com"
+    "project_number": "725383621585",
+    "firebase_url": "https://gensidetox-slim.firebaseio.com",
+    "project_id": "gensidetox-slim",
+    "storage_bucket": "gensidetox-slim.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:842739974363:android:a9fd8338ed77a8a8",
+        "mobilesdk_app_id": "1:725383621585:android:b94af9633d29373d",
         "android_client_info": {
-          "package_name": "es.easypyme.easymaitre"
+          "package_name": "es.easypyme.gensidetoxslim"
         }
       },
       "oauth_client": [
         {
-          "client_id": "842739974363-ro93t4h13nab0rkoida8daun6h54kjp4.apps.googleusercontent.com",
+          "client_id": "725383621585-ntlc1e5a0h8enokv9tboim0eklkomo7k.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBwF0D1W5vHwQqUQ62aybyVPgJpjU7dUjo"
+          "current_key": "AIzaSyD_3yY6ucuXZE1x2VjTA2d-Y7UB3fAcv7U"
         }
       ],
       "services": {

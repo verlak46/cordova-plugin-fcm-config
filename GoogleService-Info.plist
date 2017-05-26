@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>725383621585-33im5mv0slk45o09tm05gb633usgcg9f.apps.googleusercontent.com</string>
+	<string>842739974363-cksdhm7a91ms4f1agae7sotff2amg13i.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.725383621585-33im5mv0slk45o09tm05gb633usgcg9f</string>
+	<string>com.googleusercontent.apps.842739974363-cksdhm7a91ms4f1agae7sotff2amg13i</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAiZ27HBhwgJTqJUD2UgUUE3bx_OYdzqr4</string>
+	<string>AIzaSyB-_59JsPyYAFcOXaI_aYWUnnn8IBvumCM</string>
 	<key>GCM_SENDER_ID</key>
-	<string>725383621585</string>
+	<string>842739974363</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>es.easypyme.gensidetoxslim</string>
+	<string>es.easypyme.easymaitre</string>
 	<key>PROJECT_ID</key>
-	<string>gensidetox-slim</string>
+	<string>easymaitre-5975b</string>
 	<key>STORAGE_BUCKET</key>
-	<string>gensidetox-slim.appspot.com</string>
+	<string>easymaitre-5975b.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:725383621585:ios:b94af9633d29373d</string>
+	<string>1:842739974363:ios:a9fd8338ed77a8a8</string>
 	<key>DATABASE_URL</key>
-	<string>https://gensidetox-slim.firebaseio.com</string>
+	<string>https://easymaitre-5975b.firebaseio.com</string>
 </dict>
 </plist>

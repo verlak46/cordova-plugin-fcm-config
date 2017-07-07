@@ -7,36 +7,34 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>842739974363-cksdhm7a91ms4f1agae7sotff2amg13i.apps.googleusercontent.com</string>
+	<string>331151877897-nb83o41s4hdg6ogfppmqmluuokloietm.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.842739974363-cksdhm7a91ms4f1agae7sotff2amg13i</string>
-	<key>ANDROID_CLIENT_ID</key>
-	<string>842739974363-od9l7dib1i72vl2bej84o48qqssvpkv0.apps.googleusercontent.com</string>
+	<string>com.googleusercontent.apps.331151877897-nb83o41s4hdg6ogfppmqmluuokloietm</string>
 	<key>API_KEY</key>
-	<string>AIzaSyB-_59JsPyYAFcOXaI_aYWUnnn8IBvumCM</string>
+	<string>AIzaSyDDqB9fYTGHEI0iVuHOoOUhWqUhxW9iKlE</string>
 	<key>GCM_SENDER_ID</key>
-	<string>842739974363</string>
+	<string>331151877897</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>es.easypyme.easymaitre</string>
+	<string>it.panini.supergolazo2017</string>
 	<key>PROJECT_ID</key>
-	<string>easymaitre-5975b</string>
+	<string>panini-1378</string>
 	<key>STORAGE_BUCKET</key>
-	<string>easymaitre-5975b.appspot.com</string>
+	<string>panini-1378.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
 	<false/>
 	<key>IS_APPINVITE_ENABLED</key>
-	<true/>
+	<false/>
 	<key>IS_GCM_ENABLED</key>
 	<true/>
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:842739974363:ios:a9fd8338ed77a8a8</string>
+	<string>1:331151877897:ios:49f633b94ded943a</string>
 	<key>DATABASE_URL</key>
-	<string>https://easymaitre-5975b.firebaseio.com</string>
+	<string>https://panini-1378.firebaseio.com</string>
 </dict>
 </plist>

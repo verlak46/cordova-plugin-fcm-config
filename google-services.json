@@ -1,35 +1,31 @@
 {
   "project_info": {
-    "project_number": "842739974363",
-    "firebase_url": "https://easymaitre-5975b.firebaseio.com",
-    "project_id": "easymaitre-5975b",
-    "storage_bucket": "easymaitre-5975b.appspot.com"
+    "project_number": "331151877897",
+    "firebase_url": "https://panini-1378.firebaseio.com",
+    "project_id": "panini-1378",
+    "storage_bucket": "panini-1378.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:842739974363:android:a9fd8338ed77a8a8",
+        "mobilesdk_app_id": "1:331151877897:android:49f633b94ded943a",
         "android_client_info": {
-          "package_name": "es.easypyme.easymaitre"
+          "package_name": "it.panini.supergolazo2017"
         }
       },
       "oauth_client": [
         {
-          "client_id": "842739974363-od9l7dib1i72vl2bej84o48qqssvpkv0.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "es.easypyme.easymaitre",
-            "certificate_hash": "4c6b09c629897b8be0352e1415efe47bb6f3d51c"
-          }
+          "client_id": "331151877897-cdiecg59vl1qqulmakq7t2sp5piofdqv.apps.googleusercontent.com",
+          "client_type": 3
         },
         {
-          "client_id": "842739974363-ro93t4h13nab0rkoida8daun6h54kjp4.apps.googleusercontent.com",
+          "client_id": "331151877897-u6mr3uv40il3rl9agvon3hria0ekhnib.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBwF0D1W5vHwQqUQ62aybyVPgJpjU7dUjo"
+          "current_key": "AIzaSyBkG23FBtiIQ_jyFi18yQ5JSKSpCh3TqGY"
         }
       ],
       "services": {
@@ -37,21 +33,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "842739974363-ro93t4h13nab0rkoida8daun6h54kjp4.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "842739974363-cksdhm7a91ms4f1agae7sotff2amg13i.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "es.easypyme.easymaitre",
-                "app_store_id": "1118439637"
-              }
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2

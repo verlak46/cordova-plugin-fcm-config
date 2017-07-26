@@ -1,27 +1,31 @@
 {
   "project_info": {
-    "project_number": "725383621585",
-    "firebase_url": "https://gensidetox-slim.firebaseio.com",
-    "project_id": "gensidetox-slim",
-    "storage_bucket": "gensidetox-slim.appspot.com"
+    "project_number": "331151877897",
+    "firebase_url": "https://panini-1378.firebaseio.com",
+    "project_id": "panini-1378",
+    "storage_bucket": "panini-1378.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:725383621585:android:b94af9633d29373d",
+        "mobilesdk_app_id": "1:331151877897:android:49f633b94ded943a",
         "android_client_info": {
-          "package_name": "es.easypyme.gensidetoxslim"
+          "package_name": "it.panini.supergolazo2017"
         }
       },
       "oauth_client": [
         {
-          "client_id": "725383621585-ntlc1e5a0h8enokv9tboim0eklkomo7k.apps.googleusercontent.com",
+          "client_id": "331151877897-cdiecg59vl1qqulmakq7t2sp5piofdqv.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "331151877897-u6mr3uv40il3rl9agvon3hria0ekhnib.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD_3yY6ucuXZE1x2VjTA2d-Y7UB3fAcv7U"
+          "current_key": "AIzaSyBkG23FBtiIQ_jyFi18yQ5JSKSpCh3TqGY"
         }
       ],
       "services": {
